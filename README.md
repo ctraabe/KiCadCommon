@@ -1,0 +1,1 @@
+A library of common components for KiCad
